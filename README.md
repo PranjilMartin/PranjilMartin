@@ -34,8 +34,8 @@ Welcome to my GitHub! I have a strong passion for identifying patterns and trend
 
 ## 📬 **Get in Touch**
 
-- 📧 Email:(mailto:pranjilmartin@gmail.com) 
+- 📧 Email:(mailto:pranjilmartin@gmail.com) | (mailto:jobsforpranjil@gmail.com)
 - 💼 LinkedIn:(https://www.linkedin.com/in/pranjil-martin/)  
 ---
 
-🙌 **Let's Connect!** I'm always excited to collaborate, share ideas, or discuss opportunities in the world of data analytics!
+🙌 **Let's Connect!** I am eager to collaborate with professionals and teams in the data analysis field, where we can share knowledge, innovate, and grow together!
