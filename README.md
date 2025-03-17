@@ -17,7 +17,7 @@ Welcome to my GitHub! I have a strong passion for identifying patterns and trend
 
 ## 🧰 **Tech Stack**
 
-- **Programming:** Python (Pandas, NumPy, Matplotlib, Seaborn), SQL
+- **Programming:** Python (Pandas, NumPy, Matplotlib, Seaborn), SQL ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white) ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 - **Visualization Tools:** Matplotlib, Seaborn, Excel (Pivot Tables, Charts)
 - **Data Skills:** Data Cleaning, Exploratory Data Analysis (EDA), Dashboard Design, Reporting
 - **Others:** Version Control (Git/GitHub)
